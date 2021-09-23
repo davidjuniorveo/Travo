@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "796418616309",
+    "project_id": "apps-d5133",
+    "storage_bucket": "apps-d5133.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796418616309:android:16dce0bf7de6a7ac934ebc",
+        "android_client_info": {
+          "package_name": "com.example.streambox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796418616309-s1ssuutti2dv129iod41ub9j80utjo22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Ip2wmSU2yWliN7H0oRnlP3iHiTXb5l0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796418616309-s1ssuutti2dv129iod41ub9j80utjo22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
